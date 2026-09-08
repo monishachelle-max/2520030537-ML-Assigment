@@ -1,0 +1,62 @@
+Actual,Predicted,Actual_Label,Predicted_Label
+0,0,No Disease,No Disease
+0,0,No Disease,No Disease
+0,0,No Disease,No Disease
+0,1,No Disease,Disease
+0,1,No Disease,Disease
+0,0,No Disease,No Disease
+1,1,Disease,Disease
+0,0,No Disease,No Disease
+1,1,Disease,Disease
+0,1,No Disease,Disease
+1,0,Disease,No Disease
+1,1,Disease,Disease
+0,0,No Disease,No Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+0,1,No Disease,Disease
+0,0,No Disease,No Disease
+1,1,Disease,Disease
+0,1,No Disease,Disease
+1,1,Disease,Disease
+0,0,No Disease,No Disease
+0,0,No Disease,No Disease
+1,1,Disease,Disease
+0,0,No Disease,No Disease
+1,1,Disease,Disease
+0,0,No Disease,No Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+0,0,No Disease,No Disease
+0,0,No Disease,No Disease
+1,1,Disease,Disease
+0,0,No Disease,No Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+0,1,No Disease,Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+0,0,No Disease,No Disease
+0,1,No Disease,Disease
+1,1,Disease,Disease
+0,1,No Disease,Disease
+1,1,Disease,Disease
+0,1,No Disease,Disease
+0,1,No Disease,Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+0,0,No Disease,No Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+1,1,Disease,Disease
+0,0,No Disease,No Disease
+0,0,No Disease,No Disease
+1,1,Disease,Disease

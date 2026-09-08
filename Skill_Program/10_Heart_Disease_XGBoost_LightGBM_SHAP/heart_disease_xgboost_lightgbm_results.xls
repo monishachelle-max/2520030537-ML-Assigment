@@ -1,0 +1,62 @@
+Actual,XGBoost_Predicted,LightGBM_Predicted,Actual_Label,XGBoost_Label,LightGBM_Label
+0,0,0,No Disease,No Disease,No Disease
+0,1,1,No Disease,Disease,Disease
+0,0,0,No Disease,No Disease,No Disease
+0,1,1,No Disease,Disease,Disease
+0,1,1,No Disease,Disease,Disease
+0,0,0,No Disease,No Disease,No Disease
+1,1,1,Disease,Disease,Disease
+0,0,0,No Disease,No Disease,No Disease
+1,1,1,Disease,Disease,Disease
+0,1,0,No Disease,Disease,No Disease
+1,0,0,Disease,No Disease,No Disease
+1,1,1,Disease,Disease,Disease
+0,0,0,No Disease,No Disease,No Disease
+1,1,1,Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+0,1,1,No Disease,Disease,Disease
+0,0,0,No Disease,No Disease,No Disease
+1,1,1,Disease,Disease,Disease
+0,1,1,No Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+0,0,0,No Disease,No Disease,No Disease
+0,0,0,No Disease,No Disease,No Disease
+1,1,1,Disease,Disease,Disease
+0,0,0,No Disease,No Disease,No Disease
+1,1,1,Disease,Disease,Disease
+0,0,0,No Disease,No Disease,No Disease
+1,1,1,Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+0,0,0,No Disease,No Disease,No Disease
+0,0,0,No Disease,No Disease,No Disease
+1,1,1,Disease,Disease,Disease
+0,0,0,No Disease,No Disease,No Disease
+1,1,1,Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+0,1,1,No Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+1,1,0,Disease,Disease,No Disease
+0,0,0,No Disease,No Disease,No Disease
+0,1,1,No Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+0,1,1,No Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+0,1,1,No Disease,Disease,Disease
+0,0,0,No Disease,No Disease,No Disease
+1,1,1,Disease,Disease,Disease
+1,1,0,Disease,Disease,No Disease
+0,0,0,No Disease,No Disease,No Disease
+1,1,1,Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+1,1,1,Disease,Disease,Disease
+0,0,0,No Disease,No Disease,No Disease
+0,0,0,No Disease,No Disease,No Disease
+1,1,1,Disease,Disease,Disease
